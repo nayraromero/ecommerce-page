@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+}
+.subsectionHeader {
+  display: flex;
+  align-items: center;
+
+  gap: 15px;
+}
+.iconHeader {
+  height: 20px;
+}
